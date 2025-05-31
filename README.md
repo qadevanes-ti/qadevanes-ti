@@ -40,11 +40,5 @@ Busco contribuir com projetos que envolvam:
 
 ---
 
-## 😄 Pronomes
-
-Ele/dele (He/him)
-
----
-
 🚀 Obrigado por visitar meu perfil! Vamos criar algo incrível juntos!
 
