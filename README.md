@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Adevanes Rosa (@qadevanes-ti)
 
-🎯 Engenheiro de Qualidade de Software, apaixonado por tecnologia e inovação.  
+🎯 Engenheiro de Qualidade de Software com 4 anos de experiencia, apaixonado por tecnologia e inovação.  
 🧠 Sempre em busca de evolução constante, explorando novas linguagens e ferramentas.
 
 ---
