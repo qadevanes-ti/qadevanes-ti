@@ -22,7 +22,7 @@
 
 ---
 
-## 💞️ Colaborações
+##  Colaborações
 
 Busco contribuir com projetos que envolvam:
 
