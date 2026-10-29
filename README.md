@@ -63,9 +63,9 @@ QA Engineer com foco em engenharia de qualidade de ponta a ponta: planejamento d
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=qadevanes-ti&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true)
+![Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=qadevanes-ti&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=qadevanes-ti&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qadevanes-ti&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 ![Sequência de contribuições](https://streak-stats.demolab.com?user=qadevanes-ti&theme=tokyonight&hide_border=true&locale=pt_BR)
 
