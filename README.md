@@ -30,6 +30,7 @@ QA Engineer com foco em engenharia de qualidade de ponta a ponta: planejamento d
 | Projeto | O que demonstra | Stack |
 |---|---|---|
 | [**qa-automation-lab**](https://github.com/qadevanes-ti/qa-automation-lab) | Suíte E2E completa: 30 cenários, 94 execuções em 3 navegadores + mobile Web, Page Objects, relatórios HTML/JUnit, pipeline CI com evidências | Playwright, TypeScript, GitHub Actions |
+| [**auto_perfor_testes — Payment Quality Lab**](https://github.com/qadevanes-ti/auto_perfor_testes) | Laboratório de pagamentos: 19 testes Cypress e 1 teste de concorrência aprovados, cobrindo saldos, idempotência e estorno; CI aprovado e cenário de carga k6 preparado (execução pendente) | Cypress, JavaScript, Node.js, k6, GitHub Actions |
 | **Questech** *(em desenvolvimento)* | App educacional de quiz sobre carreiras de tecnologia — gamificação estilo Duolingo, StoreKit 2, Firebase, widget e suíte de testes unitários + UI | SwiftUI, Firebase, StoreKit 2, XCUITest |
 | [**KingBurguer**](https://github.com/qadevanes-ti/KingBurguer) | Aplicativo de hamburgueria para iOS | Swift |
 | [**appSortear**](https://github.com/qadevanes-ti/appSortear) | Sorteador de números para Android | Kotlin |
