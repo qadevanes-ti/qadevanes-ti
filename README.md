@@ -67,7 +67,7 @@ QA Engineer com foco em engenharia de qualidade de ponta a ponta: planejamento d
 
 ![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qadevanes-ti&theme=tokyonight)
 
-![Sequência de contribuições](https://streak-stats.demolab.com?user=qadevanes-ti&theme=tokyonight&hide_border=true&locale=pt_BR)
+[![Histórico de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qadevanes-ti&theme=tokyonight)](https://github.com/qadevanes-ti?tab=overview)
 
 </div>
 
